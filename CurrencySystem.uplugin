@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CurrencySystem",
+	"Description": "A comprehensive, modular universal economy system for Unreal Engine 5 with C++.",
+	"Category": "Other",
+	"CreatedBy": "Thyke",
+	"CreatedByURL": "https://thyke.github.io/",
+	"DocsURL": "https://thyke.github.io/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://thyke.github.io/",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CurrencySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
